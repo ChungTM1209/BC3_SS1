@@ -1,0 +1,22 @@
+.navbar {
+    position: fixed ;
+    width: 100%;
+    height: 50px;
+    background: dimgrey;
+    top: 0;
+    float: left;
+}
+.main {
+    float: left;
+    display: block;
+    margin-top: 50px;
+}
+h1, h2 {
+    margin-top: 10px;
+}
+.navbar a {
+    color: aliceblue;
+    float: left;
+    display: block;
+    padding: 15px;
+}
